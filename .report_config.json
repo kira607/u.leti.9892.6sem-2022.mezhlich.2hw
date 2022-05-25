@@ -1,0 +1,17 @@
+{
+    "template": "full_template",
+    "department": "САПР",
+    "label": "ДОМАШНЕЕ ЗАДАНИЕ",
+    "num": 2,
+    "discipline": "Межличностные коммуникации в малых группах и организациях",
+    "theme": "Анализ игры в художественном фильме",
+    "student": "",
+    "partners": [],
+    "teacher": "Пашковский Е.А.",
+    "year": "2022",
+    "chapters": {
+        "task": "Задание",
+        "solution": "Выполнение задания"
+    },
+    "newpage": false
+}
